@@ -1,0 +1,51 @@
+{"level":"info","time":"2023-02-21T16:38:04+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T16:38:11+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T16:38:11+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T17:07:13+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T17:07:17+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T17:07:17+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T17:07:25+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T17:07:25+03:00","message":"upload file ended"}
+{"level":"info","time":"2023-02-21T17:07:32+03:00","message":"download file started"}
+{"level":"info","time":"2023-02-21T17:07:32+03:00","message":"download file ended"}
+{"level":"info","time":"2023-02-21T17:31:35+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T17:31:37+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T17:31:37+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T17:31:46+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T17:31:46+03:00","message":"upload file ended"}
+{"level":"info","time":"2023-02-21T17:31:53+03:00","message":"download file started"}
+{"level":"info","time":"2023-02-21T17:31:53+03:00","message":"download file ended"}
+{"level":"info","time":"2023-02-21T17:57:20+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T17:57:23+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T17:57:23+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T17:57:30+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T17:58:10+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T17:58:12+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T17:58:12+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T17:58:19+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T17:59:29+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T17:59:32+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T17:59:32+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T17:59:41+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T17:59:41+03:00","message":"upload file ended"}
+{"level":"info","time":"2023-02-21T18:01:03+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T18:01:06+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T18:01:06+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T18:01:12+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T18:01:12+03:00","message":"upload file ended"}
+{"level":"info","time":"2023-02-21T18:01:19+03:00","message":"download file started"}
+{"level":"error","error":"open /pkg/server_cache/1.jpg: no such file or directory","time":"2023-02-21T18:01:19+03:00","message":"open /pkg/server_cache/1.jpg: no such file or directory"}
+{"level":"info","time":"2023-02-21T18:03:44+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T18:03:47+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T18:03:47+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T18:03:54+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T18:03:54+03:00","message":"upload file ended"}
+{"level":"info","time":"2023-02-21T18:04:06+03:00","message":"download file started"}
+{"level":"info","time":"2023-02-21T18:04:06+03:00","message":"download file ended"}
+{"level":"info","time":"2023-02-21T18:23:02+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-21T18:23:05+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-21T18:23:05+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-21T18:23:14+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-21T18:23:14+03:00","message":"Upload file ended"}
+{"level":"info","time":"2023-02-21T18:23:57+03:00","message":"download file started"}
+{"level":"info","time":"2023-02-21T18:23:57+03:00","message":"download file ended"}

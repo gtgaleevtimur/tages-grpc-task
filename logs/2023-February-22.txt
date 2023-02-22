@@ -1,0 +1,7 @@
+{"level":"info","time":"2023-02-22T10:52:55+03:00","message":"server start at localhost:8080"}
+{"level":"info","time":"2023-02-22T10:52:59+03:00","message":"downloaded files in list send started"}
+{"level":"info","time":"2023-02-22T10:52:59+03:00","message":"send list of downloaded files ended"}
+{"level":"info","time":"2023-02-22T10:53:26+03:00","message":"upload file started"}
+{"level":"info","time":"2023-02-22T10:53:26+03:00","message":"upload file ended"}
+{"level":"info","time":"2023-02-22T10:53:34+03:00","message":"download file started"}
+{"level":"info","time":"2023-02-22T10:53:34+03:00","message":"download file ended"}

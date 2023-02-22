@@ -1,0 +1,26 @@
+syntax="proto3";
+
+package tages;
+
+option go_package = "./proto";
+
+message StringForm {
+  string str = 1;
+}
+
+message DownloadResponse {
+  bytes data = 1;
+}
+
+message UploadRequest {
+  string str = 1;
+  bytes data = 2;
+}
+
+message ListRequest {};
+
+service Tages{
+  rpc Upload(stream UploadRequest) returns (StringForm);
+  rpc Download(StringForm) returns (stream DownloadResponse);
+  rpc List(ListRequest) returns (stream StringForm);
+}
