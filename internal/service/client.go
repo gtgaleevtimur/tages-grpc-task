@@ -41,7 +41,7 @@ func RunClient() {
 		case "List":
 			List()
 		case "Exit":
-			fmt.Println("Exit from program.")
+			fmt.Println("Exit from programm.")
 			os.Exit(0)
 		default:
 			fmt.Println("Command not allowed.")
